@@ -32,6 +32,7 @@
 // toggleUserState(users, 'Lux').then(logger);
 
 //  //----------------------------------------------------
+console.log("Task #2")
 
 const users = [
   { name: 'Mango', active: true },
